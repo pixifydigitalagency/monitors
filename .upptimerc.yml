@@ -4,8 +4,12 @@ repo: monitors # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Pixify Digital Agency
+  - name: Corporate Website
     url: https://www.pixify.co.uk/
+  - name: Edge Platform
+    url: https://edge.pixify.co.uk/
+  - name: Senditure Email Marketing
+    url: https://www.senditure.co.uk/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
