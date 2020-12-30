@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 312,
+    "timeDay": 312,
+    "timeWeek": 312,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 907,
-    "timeWeek": 907,
-    "timeMonth": 907,
-    "timeYear": 907,
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2376,
-    "timeDay": 2376,
-    "timeWeek": 2376,
-    "timeMonth": 2376,
-    "timeYear": 2376,
+    "time": 3711,
+    "timeDay": 3711,
+    "timeWeek": 3711,
+    "timeMonth": 3711,
+    "timeYear": 3711,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Broken Test Site",
+    "url": "https://www.pixify.co.net/",
+    "icon": "https://favicons.githubusercontent.com/www.pixify.co.net",
+    "slug": "broken-test-site",
+    "status": "down",
+    "uptime": "1.34%",
+    "uptimeDay": "1.34%",
+    "uptimeWeek": "1.34%",
+    "uptimeMonth": "1.34%",
+    "uptimeYear": "1.34%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-30": 0
+    }
   }
 ]
