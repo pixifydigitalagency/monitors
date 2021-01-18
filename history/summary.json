@@ -40,9 +40,9 @@
     "url": "https://www.senditure.co.uk/",
     "icon": "https://favicons.githubusercontent.com/www.senditure.co.uk",
     "slug": "senditure-email-marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2754,
     "timeMonth": 2549,
     "timeYear": 2549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-18": 0
+    }
   },
   {
     "name": "Broken Test Site",
