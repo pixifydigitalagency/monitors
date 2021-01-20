@@ -22,10 +22,10 @@
     "url": "https://edge.pixify.co.uk/",
     "icon": "https://favicons.githubusercontent.com/edge.pixify.co.uk",
     "slug": "edge-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 728,
@@ -33,7 +33,9 @@
     "timeWeek": 691,
     "timeMonth": 728,
     "timeYear": 728,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-20": 1
+    }
   },
   {
     "name": "Senditure Email Marketing",
