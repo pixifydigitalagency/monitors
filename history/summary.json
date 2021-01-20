@@ -22,19 +22,19 @@
     "url": "https://edge.pixify.co.uk/",
     "icon": "https://favicons.githubusercontent.com/edge.pixify.co.uk",
     "slug": "edge-platform",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 756,
-    "timeWeek": 691,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 926,
+    "timeDay": 3215,
+    "timeWeek": 1314,
+    "timeMonth": 926,
+    "timeYear": 926,
     "dailyMinutesDown": {
-      "2021-01-20": 1
+      "2021-01-20": 59
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "https://www.senditure.co.uk/",
     "icon": "https://favicons.githubusercontent.com/www.senditure.co.uk",
     "slug": "senditure-email-marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
@@ -54,6 +54,7 @@
     "timeMonth": 2509,
     "timeYear": 2509,
     "dailyMinutesDown": {
+      "2021-01-20": 0,
       "2021-01-18": 50
     }
   },
