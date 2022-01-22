@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 407,
-    "timeDay": 270,
-    "timeWeek": 211,
-    "timeMonth": 280,
+    "timeDay": 171,
+    "timeWeek": 207,
+    "timeMonth": 279,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2021-10-07": 29,
@@ -34,16 +34,16 @@
     "icon": "https://favicons.githubusercontent.com/edge.pixify.co.uk",
     "slug": "edge-platform",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1091,
-    "timeDay": 659,
-    "timeWeek": 1185,
-    "timeMonth": 1075,
-    "timeYear": 1102,
+    "timeDay": 1251,
+    "timeWeek": 1180,
+    "timeMonth": 1097,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2021-11-11": 28,
       "2021-10-12": 16,
@@ -76,8 +76,7 @@
       "2021-02-24": 8,
       "2021-02-22": 21,
       "2021-02-20": 38,
-      "2021-02-14": 7,
-      "2021-01-22": 62
+      "2021-02-14": 7
     }
   },
   {
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 2399,
-    "timeDay": 1718,
-    "timeWeek": 2044,
-    "timeMonth": 2214,
-    "timeYear": 2396,
+    "time": 2398,
+    "timeDay": 2019,
+    "timeWeek": 2033,
+    "timeMonth": 2224,
+    "timeYear": 2394,
     "dailyMinutesDown": {
       "2021-12-14": 19,
       "2021-11-11": 27,
@@ -132,8 +131,7 @@
       "2021-02-22": 20,
       "2021-02-20": 13,
       "2021-02-14": 7,
-      "2021-01-29": 8,
-      "2021-01-22": 62
+      "2021-01-29": 8
     }
   },
   {
@@ -147,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 90,
-    "timeDay": 49,
-    "timeWeek": 46,
-    "timeMonth": 44,
-    "timeYear": 76,
+    "time": 91,
+    "timeDay": 352,
+    "timeWeek": 87,
+    "timeMonth": 55,
+    "timeYear": 77,
     "dailyMinutesDown": {
       "2021-09-01": 20,
       "2021-07-24": 71,
