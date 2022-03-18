@@ -39,7 +39,7 @@
     "time": 1089,
     "timeDay": 1161,
     "timeWeek": 922,
-    "timeMonth": 1046,
+    "timeMonth": 1050,
     "timeYear": 1158,
     "dailyMinutesDown": {
       "2021-11-11": 28,
@@ -75,9 +75,9 @@
     "url": "https://www.senditure.co.uk/",
     "icon": "https://favicons.githubusercontent.com/www.senditure.co.uk",
     "slug": "senditure-email-marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -87,6 +87,7 @@
     "timeMonth": 2596,
     "timeYear": 2439,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-02-04": 45,
       "2021-12-14": 19,
       "2021-11-11": 27,
