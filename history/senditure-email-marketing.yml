@@ -1,7 +1,7 @@
 url: https://www.senditure.co.uk/
-status: up
-code: 200
-responseTime: 2155
-lastUpdated: 2023-01-30T23:03:24.146Z
+status: down
+code: 429
+responseTime: 121
+lastUpdated: 2023-01-31T13:53:17.974Z
 startTime: Wed Dec 30 2020 17:49:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
