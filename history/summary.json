@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.66%",
-    "time": 1008,
-    "timeDay": 1246,
-    "timeWeek": 2353,
-    "timeMonth": 1766,
-    "timeYear": 1145,
+    "time": 1009,
+    "timeDay": 1079,
+    "timeWeek": 1987,
+    "timeMonth": 1767,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2024-07-14": 896,
       "2024-07-13": 80,
@@ -25,8 +25,7 @@
       "2024-04-23": 23,
       "2024-04-10": 11,
       "2024-04-09": 4,
-      "2023-10-10": 26,
-      "2023-08-03": 18
+      "2023-10-10": 26
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.68%",
-    "time": 1336,
-    "timeDay": 856,
-    "timeWeek": 776,
-    "timeMonth": 790,
-    "timeYear": 1307,
+    "time": 1335,
+    "timeDay": 650,
+    "timeWeek": 773,
+    "timeMonth": 789,
+    "timeYear": 1305,
     "dailyMinutesDown": {
       "2024-07-14": 896,
       "2024-07-13": 80,
@@ -60,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senditure.co.uk.ico",
     "slug": "senditure-email-marketing",
     "status": "up",
-    "uptime": "95.66%",
+    "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.80%",
-    "time": 2269,
-    "timeDay": 1363,
-    "timeWeek": 1348,
-    "timeMonth": 1325,
-    "timeYear": 2037,
+    "time": 2267,
+    "timeDay": 1324,
+    "timeWeek": 1436,
+    "timeMonth": 1323,
+    "timeYear": 2032,
     "dailyMinutesDown": {
       "2024-06-18": 648,
       "2024-06-08": 15,
@@ -143,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.66%",
-    "time": 797,
-    "timeDay": 866,
-    "timeWeek": 1757,
-    "timeMonth": 1379,
-    "timeYear": 942,
+    "time": 798,
+    "timeDay": 756,
+    "timeWeek": 1569,
+    "timeMonth": 1373,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2024-07-14": 896,
       "2024-07-13": 79,
@@ -156,8 +155,7 @@
       "2024-06-04": 394,
       "2024-04-30": 63,
       "2024-04-23": 23,
-      "2023-10-10": 26,
-      "2023-08-03": 16
+      "2023-10-10": 26
     }
   }
 ]
