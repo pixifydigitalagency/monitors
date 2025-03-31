@@ -4,17 +4,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "6.64%",
-    "uptimeWeek": "8.84%",
-    "uptimeMonth": "39.79%",
-    "uptimeYear": "94.98%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "7.17%",
+    "uptimeWeek": "8.92%",
+    "uptimeMonth": "47.52%",
+    "uptimeYear": "95.63%",
     "time": 1015,
-    "timeDay": 1347,
-    "timeWeek": 1384,
-    "timeMonth": 1030,
-    "timeYear": 1036,
+    "timeDay": 1296,
+    "timeWeek": 1375,
+    "timeMonth": 1027,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2025-03-31": 1008,
       "2025-03-30": 1223,
@@ -33,9 +33,7 @@
       "2025-03-17": 1432,
       "2025-03-16": 1637,
       "2025-03-15": 1464,
-      "2025-03-14": 1432,
-      "2025-03-13": 1440,
-      "2025-03-12": 518
+      "2025-03-14": 7
     }
   },
   {
@@ -55,7 +53,7 @@
     "timeMonth": 126,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2025-03-31": 1068,
+      "2025-03-31": 1076,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -299,17 +297,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "11.12%",
-    "uptimeWeek": "10.73%",
-    "uptimeMonth": "59.70%",
-    "uptimeYear": "96.64%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "11.65%",
+    "uptimeWeek": "10.80%",
+    "uptimeMonth": "63.23%",
+    "uptimeYear": "96.94%",
     "time": 862,
-    "timeDay": 1196,
-    "timeWeek": 1354,
-    "timeMonth": 998,
-    "timeYear": 896,
+    "timeDay": 1149,
+    "timeWeek": 1346,
+    "timeMonth": 995,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-03-31": 938,
       "2025-03-30": 1262,
@@ -323,8 +321,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1254,
       "2025-03-20": 1311,
-      "2025-03-19": 1298,
-      "2025-03-18": 845
+      "2025-03-19": 599
     }
   }
 ]
