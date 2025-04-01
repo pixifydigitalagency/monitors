@@ -4,17 +4,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "20.11%",
-    "uptimeWeek": "11.79%",
-    "uptimeMonth": "50.22%",
-    "uptimeYear": "95.85%",
-    "time": 1022,
-    "timeDay": 796,
-    "timeWeek": 1287,
-    "timeMonth": 1032,
-    "timeYear": 1027,
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "21.09%",
+    "uptimeWeek": "11.93%",
+    "uptimeMonth": "50.60%",
+    "uptimeYear": "95.88%",
+    "time": 1021,
+    "timeDay": 772,
+    "timeWeek": 1280,
+    "timeMonth": 1030,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2025-04-01": 823,
       "2025-03-31": 1348,
@@ -32,7 +32,7 @@
       "2025-03-19": 1356,
       "2025-03-18": 1400,
       "2025-03-17": 1432,
-      "2025-03-16": 760
+      "2025-03-16": 590
     }
   },
   {
@@ -42,8 +42,8 @@
     "slug": "edge-platform",
     "status": "up",
     "uptime": "88.31%",
-    "uptimeDay": "40.69%",
-    "uptimeWeek": "5.81%",
+    "uptimeDay": "41.68%",
+    "uptimeWeek": "5.95%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "50.87%",
     "time": 720,
@@ -299,17 +299,17 @@
     "slug": "broken-test-site",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "25.36%",
-    "uptimeWeek": "14.57%",
+    "uptimeDay": "26.44%",
+    "uptimeWeek": "14.83%",
     "uptimeMonth": "64.44%",
     "uptimeYear": "97.04%",
     "time": 872,
-    "timeDay": 508,
+    "timeDay": 519,
     "timeWeek": 1175,
     "timeMonth": 947,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-04-01": 785,
+      "2025-04-01": 773,
       "2025-03-31": 1228,
       "2025-03-30": 1262,
       "2025-03-29": 1167,
@@ -321,7 +321,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1254,
-      "2025-03-20": 300
+      "2025-03-20": 316
     }
   }
 ]
