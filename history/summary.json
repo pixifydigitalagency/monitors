@@ -4,15 +4,15 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "67.55%",
-    "uptimeWeek": "49.62%",
-    "uptimeMonth": "87.89%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "68.66%",
+    "uptimeWeek": "49.88%",
+    "uptimeMonth": "88.21%",
+    "uptimeYear": "99.02%",
     "time": 971,
-    "timeDay": 771,
-    "timeWeek": 880,
+    "timeDay": 782,
+    "timeWeek": 879,
     "timeMonth": 957,
     "timeYear": 977,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2025-04-02": 599,
       "2025-04-01": 950,
       "2025-03-31": 1348,
-      "2025-03-30": 837
+      "2025-03-30": 701
     }
   },
   {
@@ -33,9 +33,9 @@
     "slug": "edge-platform",
     "status": "up",
     "uptime": "88.34%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "70.39%",
-    "uptimeMonth": "14.29%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "70.78%",
+    "uptimeMonth": "14.38%",
     "uptimeYear": "50.80%",
     "time": 695,
     "timeDay": 551,
@@ -43,7 +43,7 @@
     "timeMonth": 661,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-04-06": 89,
+      "2025-04-06": 76,
       "2025-04-05": 59,
       "2025-04-04": 68,
       "2025-04-03": 21,
@@ -293,17 +293,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "74.90%",
-    "uptimeWeek": "53.20%",
-    "uptimeMonth": "88.31%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "74.88%",
+    "uptimeWeek": "53.46%",
+    "uptimeMonth": "88.69%",
+    "uptimeYear": "99.06%",
     "time": 792,
     "timeDay": 462,
     "timeWeek": 597,
     "timeMonth": 778,
-    "timeYear": 763,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-04-06": 279,
       "2025-04-05": 289,
@@ -312,7 +312,7 @@
       "2025-04-02": 404,
       "2025-04-01": 952,
       "2025-03-31": 1228,
-      "2025-03-30": 966
+      "2025-03-30": 799
     }
   }
 ]
