@@ -4,16 +4,16 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "73.51%",
-    "uptimeWeek": "52.25%",
-    "uptimeMonth": "88.25%",
-    "uptimeYear": "99.02%",
+    "uptimeDay": "73.50%",
+    "uptimeWeek": "52.45%",
+    "uptimeMonth": "88.44%",
+    "uptimeYear": "99.04%",
     "time": 972,
-    "timeDay": 702,
+    "timeDay": 711,
     "timeWeek": 859,
-    "timeMonth": 951,
+    "timeMonth": 950,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2025-04-06": 334,
@@ -23,7 +23,7 @@
       "2025-04-02": 599,
       "2025-04-01": 950,
       "2025-03-31": 1348,
-      "2025-03-30": 614
+      "2025-03-30": 531
     }
   },
   {
@@ -34,8 +34,8 @@
     "status": "up",
     "uptime": "88.34%",
     "uptimeDay": "93.56%",
-    "uptimeWeek": "73.89%",
-    "uptimeMonth": "15.10%",
+    "uptimeWeek": "74.10%",
+    "uptimeMonth": "15.14%",
     "uptimeYear": "50.80%",
     "time": 682,
     "timeDay": 563,
@@ -295,24 +295,24 @@
     "slug": "broken-test-site",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "71.52%",
-    "uptimeWeek": "55.01%",
-    "uptimeMonth": "89.48%",
+    "uptimeDay": "72.47%",
+    "uptimeWeek": "55.29%",
+    "uptimeMonth": "89.42%",
     "uptimeYear": "99.12%",
     "time": 794,
-    "timeDay": 471,
+    "timeDay": 467,
     "timeWeek": 574,
     "timeMonth": 765,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-04-06": 385,
+      "2025-04-06": 377,
       "2025-04-05": 289,
       "2025-04-04": 474,
       "2025-04-03": 535,
       "2025-04-02": 404,
       "2025-04-01": 952,
       "2025-03-31": 1228,
-      "2025-03-30": 344
+      "2025-03-30": 381
     }
   }
 ]
