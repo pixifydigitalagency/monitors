@@ -4,15 +4,15 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "69.46%",
-    "uptimeWeek": "49.85%",
-    "uptimeMonth": "87.90%",
-    "uptimeYear": "98.99%",
-    "time": 970,
-    "timeDay": 769,
-    "timeWeek": 887,
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "69.45%",
+    "uptimeWeek": "49.91%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "99.00%",
+    "time": 971,
+    "timeDay": 770,
+    "timeWeek": 882,
     "timeMonth": 958,
     "timeYear": 977,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2025-04-02": 599,
       "2025-04-01": 950,
       "2025-03-31": 1348,
-      "2025-03-30": 881
+      "2025-03-30": 837
     }
   },
   {
@@ -34,8 +34,8 @@
     "status": "up",
     "uptime": "88.34%",
     "uptimeDay": "94.67%",
-    "uptimeWeek": "69.83%",
-    "uptimeMonth": "14.16%",
+    "uptimeWeek": "69.92%",
+    "uptimeMonth": "14.18%",
     "uptimeYear": "50.80%",
     "time": 696,
     "timeDay": 537,
@@ -293,16 +293,16 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "73.48%",
-    "uptimeWeek": "52.82%",
-    "uptimeMonth": "88.17%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "74.09%",
+    "uptimeWeek": "52.91%",
+    "uptimeMonth": "88.38%",
+    "uptimeYear": "99.03%",
     "time": 791,
-    "timeDay": 457,
-    "timeWeek": 599,
-    "timeMonth": 780,
+    "timeDay": 456,
+    "timeWeek": 598,
+    "timeMonth": 779,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2025-04-06": 248,
@@ -312,7 +312,7 @@
       "2025-04-02": 404,
       "2025-04-01": 952,
       "2025-03-31": 1228,
-      "2025-03-30": 1057
+      "2025-03-30": 966
     }
   }
 ]
