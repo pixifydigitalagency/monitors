@@ -6,14 +6,14 @@
     "slug": "corporate-website",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "68.12%",
-    "uptimeWeek": "70.20%",
-    "uptimeMonth": "93.14%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "68.34%",
+    "uptimeWeek": "70.81%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "99.44%",
     "time": 995,
-    "timeDay": 1290,
-    "timeWeek": 922,
-    "timeMonth": 977,
+    "timeDay": 1339,
+    "timeWeek": 928,
+    "timeMonth": 976,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2025-04-08": 352,
@@ -22,7 +22,7 @@
       "2025-04-05": 458,
       "2025-04-04": 392,
       "2025-04-03": 447,
-      "2025-04-02": 544
+      "2025-04-02": 482
     }
   },
   {
@@ -34,7 +34,7 @@
     "uptime": "88.35%",
     "uptimeDay": "92.12%",
     "uptimeWeek": "94.37%",
-    "uptimeMonth": "21.18%",
+    "uptimeMonth": "21.21%",
     "uptimeYear": "50.76%",
     "time": 736,
     "timeDay": 626,
@@ -296,24 +296,24 @@
     "slug": "broken-test-site",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "65.35%",
-    "uptimeWeek": "68.44%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "66.59%",
+    "uptimeWeek": "68.02%",
+    "uptimeMonth": "92.64%",
     "uptimeYear": "99.39%",
     "time": 773,
-    "timeDay": 973,
+    "timeDay": 979,
     "timeWeek": 626,
     "timeMonth": 775,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-04-08": 404,
+      "2025-04-08": 390,
       "2025-04-07": 611,
       "2025-04-06": 427,
       "2025-04-05": 289,
       "2025-04-04": 474,
       "2025-04-03": 535,
       "2025-04-02": 404,
-      "2025-04-01": 40
+      "2025-04-01": 96
     }
   }
 ]
