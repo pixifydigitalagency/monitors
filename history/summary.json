@@ -4,16 +4,16 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "61.33%",
-    "uptimeWeek": "68.97%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "99.40%",
-    "time": 988,
-    "timeDay": 1527,
-    "timeWeek": 1000,
-    "timeMonth": 1001,
+    "uptimeDay": "61.31%",
+    "uptimeWeek": "69.24%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "99.41%",
+    "time": 989,
+    "timeDay": 1526,
+    "timeWeek": 1001,
+    "timeMonth": 1000,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2025-04-09": 304,
@@ -23,7 +23,7 @@
       "2025-04-05": 458,
       "2025-04-04": 392,
       "2025-04-03": 447,
-      "2025-04-02": 266
+      "2025-04-02": 239
     }
   },
   {
@@ -34,12 +34,12 @@
     "status": "up",
     "uptime": "88.36%",
     "uptimeDay": "95.23%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "23.22%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "23.27%",
     "uptimeYear": "50.75%",
     "time": 720,
     "timeDay": 740,
-    "timeWeek": 796,
+    "timeWeek": 787,
     "timeMonth": 723,
     "timeYear": 618,
     "dailyMinutesDown": {
@@ -296,17 +296,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "65.46%",
-    "uptimeWeek": "69.35%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "65.44%",
+    "uptimeWeek": "69.92%",
+    "uptimeMonth": "93.08%",
+    "uptimeYear": "99.42%",
     "time": 789,
-    "timeDay": 956,
-    "timeWeek": 663,
-    "timeMonth": 779,
-    "timeYear": 772,
+    "timeDay": 939,
+    "timeWeek": 661,
+    "timeMonth": 778,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2025-04-09": 192,
       "2025-04-08": 540,
@@ -314,8 +314,7 @@
       "2025-04-06": 427,
       "2025-04-05": 289,
       "2025-04-04": 474,
-      "2025-04-03": 535,
-      "2025-04-02": 23
+      "2025-04-03": 500
     }
   }
 ]
