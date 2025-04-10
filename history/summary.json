@@ -4,17 +4,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "75.51%",
-    "uptimeWeek": "69.69%",
-    "uptimeMonth": "92.62%",
-    "uptimeYear": "99.38%",
-    "time": 1007,
-    "timeDay": 1226,
-    "timeWeek": 982,
-    "timeMonth": 1003,
-    "timeYear": 1006,
+    "uptimeWeek": "69.93%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "99.39%",
+    "time": 1008,
+    "timeDay": 1233,
+    "timeWeek": 987,
+    "timeMonth": 1006,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2025-04-10": 59,
       "2025-04-09": 534,
@@ -24,7 +24,7 @@
       "2025-04-05": 458,
       "2025-04-04": 392,
       "2025-04-03": 447,
-      "2025-04-02": 86
+      "2025-04-02": 70
     }
   },
   {
@@ -36,11 +36,11 @@
     "uptime": "88.36%",
     "uptimeDay": "94.01%",
     "uptimeWeek": "94.90%",
-    "uptimeMonth": "25.74%",
+    "uptimeMonth": "25.80%",
     "uptimeYear": "50.74%",
     "time": 714,
     "timeDay": 785,
-    "timeWeek": 715,
+    "timeWeek": 716,
     "timeMonth": 727,
     "timeYear": 619,
     "dailyMinutesDown": {
@@ -297,17 +297,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "69.05%",
-    "uptimeMonth": "92.88%",
+    "uptimeDay": "72.05%",
+    "uptimeWeek": "69.31%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 802,
-    "timeDay": 932,
+    "timeDay": 913,
     "timeWeek": 663,
-    "timeMonth": 780,
-    "timeYear": 774,
+    "timeMonth": 778,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2025-04-10": 168,
       "2025-04-09": 332,
@@ -316,7 +316,7 @@
       "2025-04-06": 427,
       "2025-04-05": 289,
       "2025-04-04": 474,
-      "2025-04-03": 281
+      "2025-04-03": 255
     }
   }
 ]
