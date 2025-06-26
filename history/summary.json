@@ -4,16 +4,16 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
-    "uptime": "95.38%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "95.39%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.10%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.27%",
-    "time": 1002,
-    "timeDay": 1404,
-    "timeWeek": 494,
-    "timeMonth": 246,
+    "uptimeYear": "79.29%",
+    "time": 997,
+    "timeDay": 964,
+    "timeWeek": 448,
+    "timeMonth": 241,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2025-06-26": 336,
@@ -100,7 +100,7 @@
       "2025-04-06": 403,
       "2025-04-05": 458,
       "2025-04-04": 392,
-      "2025-04-03": 217
+      "2025-04-03": 123
     }
   },
   {
@@ -113,14 +113,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.68%",
+    "uptimeYear": "30.67%",
     "time": 650,
     "timeDay": 215,
     "timeWeek": 199,
     "timeMonth": 174,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2025-06-26": 336,
+      "2025-06-26": 346,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -407,7 +407,7 @@
     "timeMonth": 0,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-06-26": 336,
+      "2025-06-26": 347,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -495,17 +495,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "95.39%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.10%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.30%",
+    "uptimeYear": "79.31%",
     "time": 782,
-    "timeDay": 1142,
-    "timeWeek": 295,
-    "timeMonth": 85,
-    "timeYear": 690,
+    "timeDay": 764,
+    "timeWeek": 263,
+    "timeMonth": 82,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-06-26": 336,
       "2025-06-25": 1440,
@@ -590,7 +590,7 @@
       "2025-04-07": 611,
       "2025-04-06": 427,
       "2025-04-05": 289,
-      "2025-04-04": 375
+      "2025-04-04": 334
     }
   }
 ]
