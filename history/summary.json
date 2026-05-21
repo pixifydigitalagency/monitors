@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
     "status": "up",
-    "uptime": "80.88%",
-    "uptimeDay": "0.05%",
+    "uptime": "80.89%",
+    "uptimeDay": "55.61%",
     "uptimeWeek": "70.13%",
-    "uptimeMonth": "41.92%",
-    "uptimeYear": "7.61%",
+    "uptimeMonth": "43.75%",
+    "uptimeYear": "7.76%",
     "time": 588,
-    "timeDay": 2361,
-    "timeWeek": 4267,
-    "timeMonth": 1701,
-    "timeYear": 483,
+    "timeDay": 1809,
+    "timeWeek": 4258,
+    "timeMonth": 1758,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2026-05-20": 671,
       "2026-05-19": 1440,
@@ -354,8 +354,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -364,18 +363,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/edge.pixify.co.uk.ico",
     "slug": "edge-platform",
     "status": "down",
-    "uptime": "70.34%",
+    "uptime": "70.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 278,
-    "timeDay": 25,
-    "timeWeek": 27,
-    "timeMonth": 111,
+    "time": 276,
+    "timeDay": 26,
+    "timeWeek": 28,
+    "timeMonth": 109,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2026-05-20": 672,
+      "2026-05-21": 32,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -738,8 +738,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -748,7 +747,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senditure.co.uk.ico",
     "slug": "senditure-email-marketing",
     "status": "down",
-    "uptime": "76.61%",
+    "uptime": "76.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -759,7 +758,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 672,
+      "2026-05-21": 32,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -1122,8 +1122,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -1133,15 +1132,15 @@
     "slug": "broken-test-site",
     "status": "up",
     "uptime": "80.89%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "55.58%",
     "uptimeWeek": "70.13%",
-    "uptimeMonth": "41.92%",
-    "uptimeYear": "7.61%",
-    "time": 305,
-    "timeDay": 2120,
-    "timeWeek": 1842,
-    "timeMonth": 881,
-    "timeYear": 215,
+    "uptimeMonth": "43.75%",
+    "uptimeYear": "7.76%",
+    "time": 306,
+    "timeDay": 1243,
+    "timeWeek": 1833,
+    "timeMonth": 923,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2026-05-20": 672,
       "2026-05-19": 1440,
@@ -1481,8 +1480,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   }
 ]
