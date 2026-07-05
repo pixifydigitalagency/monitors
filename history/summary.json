@@ -4,17 +4,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "81.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "90.08%",
     "uptimeYear": "16.87%",
-    "time": 630,
-    "timeDay": 1717,
-    "timeWeek": 2221,
-    "timeMonth": 2130,
-    "timeYear": 624,
+    "time": 640,
+    "timeDay": 4465,
+    "timeWeek": 2845,
+    "timeMonth": 2284,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-07-11": 377,
       "2026-05-06": 62,
@@ -322,7 +322,8 @@
       "2026-06-22": 576,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
-      "2026-06-19": 889
+      "2026-06-19": 889,
+      "2026-07-05": 1
     }
   },
   {
@@ -331,7 +332,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/edge.pixify.co.uk.ico",
     "slug": "edge-platform",
     "status": "down",
-    "uptime": "68.75%",
+    "uptime": "68.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -342,7 +343,7 @@
     "timeMonth": 26,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2026-07-05": 132,
+      "2026-07-05": 650,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -715,7 +716,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.senditure.co.uk.ico",
     "slug": "senditure-email-marketing",
     "status": "down",
-    "uptime": "74.87%",
+    "uptime": "74.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -726,7 +727,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 132,
+      "2026-07-05": 650,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -1098,17 +1099,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "up",
-    "uptime": "81.17%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.18%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.08%",
     "uptimeYear": "16.87%",
-    "time": 403,
-    "timeDay": 1383,
-    "timeWeek": 1545,
-    "timeMonth": 2778,
-    "timeYear": 418,
+    "time": 438,
+    "timeDay": 10389,
+    "timeWeek": 3776,
+    "timeMonth": 3281,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2025-07-11": 377,
       "2026-05-06": 63,
@@ -1416,7 +1417,8 @@
       "2026-06-22": 577,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
-      "2026-06-19": 888
+      "2026-06-19": 888,
+      "2026-07-05": 0
     }
   }
 ]
