@@ -4,17 +4,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "corporate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "81.28%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "84.70%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "84.45%",
     "uptimeYear": "32.76%",
-    "time": 1316,
-    "timeDay": 40460,
-    "timeWeek": 11587,
-    "timeMonth": 6932,
-    "timeYear": 1500,
+    "time": 1318,
+    "timeDay": 27423,
+    "timeWeek": 10450,
+    "timeMonth": 6786,
+    "timeYear": 1503,
     "dailyMinutesDown": {
       "2026-05-06": 62,
       "2026-05-05": 1440,
@@ -269,7 +269,7 @@
       "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 474,
-      "2026-09-19": 3
+      "2026-09-19": 114
     }
   },
   {
@@ -289,7 +289,7 @@
     "timeMonth": 42,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-09-19": 1278,
+      "2026-09-19": 1390,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -673,7 +673,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 1278,
+      "2026-09-19": 1390,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -1045,17 +1045,17 @@
     "url": "https://www.pixify.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pixify.co.uk.ico",
     "slug": "broken-test-site",
-    "status": "down",
-    "uptime": "81.29%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.54%",
+    "status": "up",
+    "uptime": "81.28%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "84.28%",
     "uptimeYear": "32.75%",
-    "time": 1183,
-    "timeDay": 20357,
-    "timeWeek": 6295,
-    "timeMonth": 6902,
-    "timeYear": 1412,
+    "time": 1185,
+    "timeDay": 13886,
+    "timeWeek": 5701,
+    "timeMonth": 6753,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2026-05-06": 63,
       "2026-05-05": 1440,
@@ -1311,7 +1311,7 @@
       "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 473,
-      "2026-09-19": 0
+      "2026-09-19": 112
     }
   }
 ]
